@@ -1,6 +1,6 @@
-var ease = require('ease');
+var ease = require('ease-component');
 var offset = require('offset');
-var raf = require('raf');
+var raf = require('component-raf');
 
 function scrollTo(el, duration, easingType, scrollOffset) {
   scrollOffset = scrollOffset == null ? 0 : scrollOffset;

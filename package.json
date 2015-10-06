@@ -1,0 +1,13 @@
+{
+  "name": "scroll-to",
+  "version": "0.0.7",
+  "description": "Animate scrolling to points",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "component-raf": "^1.2.0",
+    "ease-component": "^1.0.0",
+    "offset": "^0.0.1"
+  }
+}
